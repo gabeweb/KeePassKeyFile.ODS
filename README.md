@@ -9,4 +9,4 @@ A simple way to generate KeePass KeyFiles in spreadsheets (LibreOffice Calc vers
 
 <p align="center">KeePassKeyFile in MS Office Excel / XLSX file</p>
 
-No codes. Just spreadsheet formulas.
+No codes. Just spreadsheet formulas. Just select the cells with the generated XML code, copy and paste in your regular text/code editor to save it as a .`keyx` file according to the official [specifications to create key files](https://keepass.info/help/base/keys.html#keyfiles) for KeePass.
