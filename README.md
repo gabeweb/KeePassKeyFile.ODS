@@ -15,13 +15,13 @@ No codes. Just spreadsheet formulas. Just select the cells with the generated XM
 >
 > The 2026 versions include several improvements:
 >
-> - **Compatibility:** XLSX and ODS versions work with Excel 365, 2019–2024, Web, and Mobile (tested on Android).
+> - **Compatibility:** XLSX version work with Excel 365, 2019–2024, Web, and Mobile (tested on Android).
 > - **LibreOffice:** The ODS version is compatible with LibreOffice Calc (2025–2026 versions).
 > - **Efficiency:** The XLSX version utilizes modern formulas that significantly reduce file size and manual effort.
-> - **Array Formulas:** ODS versions now support array formulas, though they are optimized for specific spreadsheet applications.
+> - **Basic Macro:** ODS version now support Basic.
 
 > [!IMPORTANT]
-> ODS versions have been updated to support modern array formulas.
+> ODS versions have been updated to support Basic macro.
 
 > [!WARNING]
 > These formulas are application-specific. Ensure you are using a compatible version of LibreOffice Calc to avoid broken functionality.
